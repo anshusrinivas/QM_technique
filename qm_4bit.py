@@ -268,4 +268,4 @@ if remai_lis:
 p_imp_bin=set(p_imp_bin)
 p_imp_bin=list(p_imp_bin)
 print(f'prime imp={p_imp}\n bin={p_imp_bin}')
-#print(f'remaining={remai_lis}')
+print(f'remaining={remai_lis}')
